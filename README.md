@@ -11,8 +11,6 @@
 </div>
 <br />
 
-<img width="1359" alt="image" src="https://github.com/aulianza/aulianza.id/assets/15605885/e9665038-6e84-4c8e-a847-fb90138c0303">
-
 ## Introduction
 
 This website was carefully crafted from the ground using Next.js and other helpful tools, starting in June 2023.
@@ -88,14 +86,9 @@ The data projects on this blog are taken from the PostgreSQL database connected 
 
 Report URL: https://pagespeed.web.dev/analysis/https-aulianza-id/pk0y6xcz25?form_factor=desktop
 
-![image](https://github.com/aulianza/aulianza.id/assets/15605885/d87a6083-caf3-4b84-ba59-975c07193a9f)
-
 - ### GTmetrix
 
 Report URL: [https://pagespeed.web.dev/analysis/https-aulianza-id/pk0y6xcz25?form_factor=desktop](https://gtmetrix.com/reports/aulianza.id/REEiduoo/)
-
-![image](https://github.com/aulianza/aulianza.id/assets/15605885/953dc131-bf52-4ef6-913c-f6eb8fb6c6a7)
-<br /><br />
 
 ## Getting Started
 
@@ -106,25 +99,25 @@ If you are interested in running this project on your local machine, you can do 
 1. Clone using git
 
    ```bash
-   git clone https://github.com/aulianza/aulianza.id
+   git clone https://github.com/mhdxr/mhdxr.tech
    ```
 
 2. Using `create-next-app`
 
    ```bash
-   npx create-next-app -e https://github.com/aulianza/aulianza.id project-name
+   npx create-next-app -e https://github.com/mhdxr/mhdxr.tech project-name
    ```
 
 3. Using `degit`
 
    ```bash
-   npx degit aulianza/aulianza.id YOUR_APP_NAME
+   npx degit mhdxr/mhdxr.tech YOUR_APP_NAME
    ```
 
 4. Deploy to Vercel or Netlify, etc
 
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/aulianza/aulianza.id)
-   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/aulianza/aulianza.id)
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/mhdxr/mhdxr.tech)
+   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mhdxr/mhdxr.tech)
 
 ### 2. Install dependencies
 
@@ -140,7 +133,7 @@ This repository uses several environment variables. Please copy .env.example int
 
 ```
 BUNDLE_ANALYZER=false
-SITE_URL=https://aulianza.id
+SITE_URL=https://mhdxr.tech
 
 # Blog
 BLOG_API_URL=
